@@ -123,6 +123,10 @@ h2{
     margin-top: -80px;
     margin-left: 80px;
     display:none;
-    color:red;
+    color:blue;
     font: 50px; 
+   }
+
+   .phone{
+       text-align: center;
    }
