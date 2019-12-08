@@ -130,3 +130,7 @@ h2{
    .phone{
        text-align: center;
    }
+
+   .button>input{
+       align-content: right;
+   }
