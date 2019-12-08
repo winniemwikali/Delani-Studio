@@ -1,0 +1,128 @@
+.people{
+color: white;
+text-align: center;
+}
+h1,.logo,.mouse{
+    text-align:center;
+    color:white ;
+}
+
+h4{
+    text-align: center;
+}
+.welcome{
+    background: url(/img/backgrounds/h_img.jpg) center /cover no-repeat;
+    height: 100vh;
+    color: antiquewhite;
+    text-transform: uppercase;
+    width: 100;
+    position: relative;
+
+}
+.mouse{
+    position: absolute;
+    top: 93vh;
+    left: 50%;
+}
+.winy{
+    position: absolute;
+    top: 50vh;
+    left: 35%;  
+}
+
+.logo{
+ 
+    position: absolute;
+    top: 30vh;
+    left: 45.9%; 
+}
+ 
+
+.about,h2>p{
+    text-align: center;
+    color: black;
+    font-family: 'Titillium Web', sans-serif;
+
+}
+
+.services{
+    background:url(..//img/backgrounds/s_image.jpg);
+    background-size: cover;
+    height: 350px;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 35px;
+    font-family: 'Tajawal', sans-serif;
+}
+.offers{
+    text-align: center;
+    font-family: 'Khula', sans-serif;
+    
+    
+}
+.pic{
+    display: flex;
+}
+#part1{
+    text-align: center;
+    display: flex;
+    margin-top: 5%;
+    margin-left: 3%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+
+.part2{
+    text-align: center;
+    display: flex;
+    margin-top: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+
+.offers{
+    text-align: center;
+    display: flex;
+    margin-top: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+h2{
+    text-align: center;
+}
+
+#internet {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.footer {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+    .textarea {
+        margin-bottom: 50px;
+        
+    }
+   
+   #subject {
+       margin-top: 50px;
+       margin-left: 250px;
+       border-radius: 10px;
+   }
+   
+   .form-control {
+       margin-left: 150px;
+   }
+
+   #text1,#text2,#text3,#text4,#text5,#text6,#text7,#text8{
+    margin-top: -80px;
+    margin-left: 80px;
+    display:none;
+    color:red;
+    font: 50px; 
+   }
