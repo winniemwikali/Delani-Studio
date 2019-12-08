@@ -11,7 +11,7 @@ h4{
     text-align: center;
 }
 .welcome{
-    background: url(/img/backgrounds/h_img.jpg) center /cover no-repeat;
+    background: url(../img/backgrounds/h_img.jpg) center /cover no-repeat;
     height: 100vh;
     color: antiquewhite;
     text-transform: uppercase;
@@ -138,5 +138,5 @@ h2{
        margin-left: 80px;
    }
    #phone{
-       background: url(/img/backgrounds/c_image.jpg );
+       background: url(../img/backgrounds/c_image.jpg );
    }
