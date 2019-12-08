@@ -107,6 +107,7 @@ h2{
     .textarea {
         margin-bottom: 50px;
         
+        
     }
    
    #subject {
@@ -142,3 +143,17 @@ h2{
    #phone{
        background: url(../img/backgrounds/c_image.jpg );
    }
+
+   .pic:hover{
+       opacity: 0.2;
+   }
+
+   .texts{
+    
+
+    transform: translate(-50%,-50%);
+    position: absolute;
+    font-size: 1.5em;
+    display:none;
+    margin:-50% 25%;
+}
