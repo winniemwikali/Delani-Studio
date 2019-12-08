@@ -131,6 +131,9 @@ h2{
        text-align: center;
    }
 
-   .button>input{
-       align-content: right;
+   .button{
+       text-align: center;
+       padding-left: 20px;
+       padding-right: 20px;
+       margin-left: 80px;
    }
