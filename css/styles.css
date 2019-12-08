@@ -130,6 +130,9 @@ h2{
 
    .phone{
        text-align: center;
+       color: white;
+       font-weight: bold;
+       font-size: 20px;
    }
 
    .button{
@@ -142,6 +145,7 @@ h2{
 
    #phone{
        background: url(../img/backgrounds/c_image.jpg );
+       margin-top: 5%;
    }
 
    .pic:hover{
@@ -157,4 +161,8 @@ h2{
 }
 #pp, #dev, #prod{
     display:none;
+}
+
+h4{
+    margin-top: 3%;
 }
