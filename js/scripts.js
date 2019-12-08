@@ -1,15 +1,15 @@
 $ (document).ready(function(){
     $("#design, #pp").click(function() {
-        $("#pp").slideToggle();
-        $("#design").slideToggle();
+        $("#hidden1").toggle();
+        $("#pp").toggle();
     });
     $("#development, #dev").click(function() {
+        $("#hidden2").toggle();
         $("#dev").toggle();
-        $("#development").slideToggle();
     });
     $("#product, #prod").click(function() {
-        $("#prod").slideToggle();
-        $("#product").slideToggle();
+        $("#hidden3").toggle();
+        $("#prod").toggle();
     });
 
     // portfolio

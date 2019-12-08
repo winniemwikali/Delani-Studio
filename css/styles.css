@@ -155,3 +155,6 @@ h2{
     display:none;
     margin:-50% 25%;
 }
+#pp, #dev, #prod{
+    display:none;
+}
