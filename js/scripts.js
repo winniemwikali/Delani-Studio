@@ -53,7 +53,7 @@ if (email== "" ) {
     alert("")
 }
     else {
-        alert('Thank you for contacting us' )
+        alert(' Your message has been received. Thank you for contacting us' )
     }
 
 
