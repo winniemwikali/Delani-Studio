@@ -108,10 +108,12 @@ h2{
     text-transform: uppercase;
     font-weight: bold;
 }
-
-    .textarea {
+.textarea {
         margin-bottom: 50px;
-        border: white;
+        border: rgba(255, 255, 255, 0.089);
+        opacity: 0.2;
+        
+        
         
         
     }
@@ -177,3 +179,4 @@ h2{
 h4{
     margin-top: 3%;
 }
+
