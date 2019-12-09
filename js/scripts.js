@@ -50,7 +50,7 @@ var submission=function(){
  
 var email=document.getElementById("email")
 if (email== "" ) {
-    alert("")
+    alert("make sure you input details")
 }
     else {
         alert(' Your message has been received. Thank you for contacting us' )
